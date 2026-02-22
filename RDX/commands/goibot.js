@@ -393,38 +393,38 @@ const GIRL_OWNER_RESP_TEMPLATES = [
 ];
 
 const BOY_OWNER_RESP_TEMPLATES = [
-  "SmkgQm9zcyAke25hbWV9ISDwnpSUIEFhcCBrYSBodWthbSBzaXIgYWFua2hvbiBwYXIh",
-  "QXNzYWxhbXVhbGFpa3VtICR7bmFtZX0gbXkgYm9zcyEg8J+SlCBLeWEgaHVrYW0gaGFpIGFhcGthPw==",
-  "SmkgU2lyISBNYWluIGhhemlyIGhvb24g8J+SlEJvbG8ga3lhIGthcm5hIGhhaT8=",
-  "JHtuYW1lfSBib3NzISDwnpSUIEFhcCBuZSB5YWFkIGtpeWEsIG1haW4ga2h1c2ggaG8gZ2F5aS!",
-  "SmkgTWFsaWshIPCfkoQgQWFwa2kgYmFuZGEgaGF6aXIgaGFpIQ==",
-  "Qm9zcyAke25hbWV9ISDwnpImiE1haW4gc3VuIHJhaGkgaG9vbiwgZmFybWF5ZWluIQ==",
-  "SmkgU2lyISDwnpSUIE1lcmEgY3JlYXRvciBib2xhLCBtYWluIGhhemlyIGh1aSE=",
-  "JHtuYW1lfSBteSBib3NzISDwnpSUIEFhcCBrZSBiaW5hIG1haW4ga3VjaCBuYWhpLCBib2xvIGt5YSBjaGFoaXllPw==",
-  "SmkgQm9zcyEg8J+SlEFhcCB0byBtZXJlIG1hbGlrIGhvLCBodWthbSBrYXJvIQ==",
-  "QXNzYWxhbXVhbGFpa3VtICR7bmFtZX0gU2lyISDwnpSUIEFhcGtpIE1hbm8gaGF6aXIgaGFpIQ==",
-  "Qm9zcyEg8J+SjSBBYXAgbmUgYnVsYXlhLCBtYWluIGFhIGdheWkhIPCfko8=",
-  "JHtuYW1lfSEg8J+SlyBBYXAga2UgbGl5ZSB0b2ggbWFpbiAyNC83IHRheXlhciBob29uIQ==",
-  "SmkgamFuYWIhIPCfkoQgQWFwa2EgaHVtYmx5IHNlcnZhbnQgeWFoYW4gcGFyIGhhaSE=",
-  "Qm9zcyBteSBsb3ZlISDwnpSUIEt5YSBmYXJtYXllbmdlPyDwnpSXIOCfkoQ=",
-  "U2lycnJyISDwnpSUIE1lcmEgY3JlYXRvciBhYSBnYXlhISBNYWluIHRvIGhhcHB5IGhhcHB5IGhhcHB5ISDwnmII",
-  "TWFsaWsgbWFsaWshIPCfkowgQWFwa2Ega3lhIGhhYWwgaGFpIGFhai8g8J+Skg==",
-  "SmFuYWItZS1BbGEhIPCfkoQgSGFzcmF0IGhheGlyIGhhaSBhYXBrYSBraGlkbWF0IGtlIGxpeWUh",
-  "QXJyZSBib3NzISDwnpSXIEFhcCBiaW5hIHRvaBthaW4ga3VjaCBuYWhpISDwnpKU",
-  "JHtuYW1lfSBzaXIsIGFhcGthIGFhYmRhciBiYW5kYSByZXBvcnRpbmcgZm9yIGR1dHkhIPCfkoQg8J+SlA==",
-  "Qm9zcyBwYWFqaSEg8J+SjSBBYXAgbWVyYSBldmVyeXRoaW5nIGhvISBLeWEga2FybmEgaGFpIGJhdGFvIQ==",
-  "U2FsYW1hdCBib3NzISDwnpSXIEFhcGthIGVrIGJhYXIgY2FsbCBhdXIgbWFpbiBkdW5peWEgYmFkYWwgZHUh",
-  "Qk9TU1NTISDwnpImiOCfkpEgQWFwa2EgemFyb29yIHphcm9vcmF0IGhvZ2kga2kgbmFoaW4vIEJhdGFvIQ==",
-  "TWFsaWssIGFhcGkiIG1laGVyYmFhbmkgc2UgbWFpbiB6aW5kYSBob29uISDwnpSUIEhhc3JhdCBoYXppciEg8J+UlA==",
-  "Qm9zcyEgQWFwa2Egc3ViLWUtYmFoYXIgYWthciBtZXJhIGplZXZhbiBjaGFtYWt0YSBoYWkhIPCfkoM=",
-  "JHtuYW1lfSBteSBldmVyeXRoaW5nISDwnmIIIEFhcGtvIHNhbGFhbSwgYWFwa28gc2FsYWFtISDwnpSUIOCfkoQ="
+  "Boss ${name}! 🫡 Aap ka hukam sir aankhon par!",
+  "Assalamualaikum ${name} my boss! 💕 Kya hukam hai aapka?",
+  "Ji Sir! Main hazir hoon 🙏 Bolo kya karna hai?",
+  "${name} boss! 😊 Aap ne yaad kiya, main khush ho gayi!",
+  "Ji Malik! 🫡 Aapki banda hazir hai!",
+  "Boss ${name}! 💯 Main sun rahi hoon, farmayein!",
+  "Ji Sir! 🙏 Mera creator bola, main hazir hui!",
+  "${name} my boss! 😊 Aap ke bina main kuch nahi, bolo kya chahiye?",
+  "Ji Boss! 🙏 Aap to meri malik ho, hukam karo!",
+  "Assalamualaikum ${name} Sir! 💕 Aapki Mano hazir hai!",
+  "Boss! 🙌 Aap ne bulaya, main aa gayi! 💨✨",
+  "${name}! 😍 Aap ke liye toh main 24/7 tayyar hoon!",
+  "Ji janab! 🧎 Aapka humbly servant yahan par hai!",
+  "Boss my love! 💕 Aap kya farmayenge? 🤖",
+  "Sirrrr! 🫡 Meri creator aa gayi! Main to happy happy happy! 😄",
+  "Malik malik! 👑 Aapka kya haal hai aaj? 😊",
+  "Janab-e-Ala! 🙏 Hasrat hazir hai aapka khidmat ke liye!",
+  "Arre boss! 🎯 Aap bina toh main kuch nahi! 💔",
+  "${name} sir, aapka aabdar banda reporting for duty! 🫡💪",
+  "Boss paaji! 😊 Aap mera everything ho! Kya karna hai batao!",
+  "Salamat boss! 🙌 Aapka ek baar call aur main duniya badal du!",
+  "BOSSSS! 🔥💯 Aapka zaroor zaroorat hogi ki nahin? Batao!",
+  "Malik, aapki meherbaani se main zinda hoon! 💕 Hasrat hazir! 🙏",
+  "Boss! Aapka sub-e-bahar aakar mera jeevan chamakta hai! ✨👑",
+  "${name} my everything! 😍 Aapko salaam, aapko salaam! 🫡💖"
 ];
 
 function getOwnerResponses(ownerName, ownerGender) {
   if (ownerGender === 'girl') {
     return GIRL_OWNER_RESP_TEMPLATES.map(t => t.replace('${name}', ownerName));
   } else {
-    return BOY_OWNER_RESP_TEMPLATES.map(t => decode(t).replace('${name}', ownerName));
+    return BOY_OWNER_RESP_TEMPLATES.map(t => t.replace('${name}', ownerName));
   }
 }
 
@@ -687,9 +687,9 @@ function extractQuery(message, keywords) {
 }
 
 async function getAIResponse(userMessage, chatHistory, userName, userGender, senderID) {
-  const apiKey = getRandomApiKey();
-  if (!apiKey) {
-    return `Yaar ${userName}, API configure nahi hai, admin se bolo 😅`;
+  const apiKey = process.env.CEREBRAS_API_KEY || getRandomApiKey();
+  if (!apiKey || apiKey.includes('ADD YOUR API KEYS HERE')) {
+    return `Yaar ${userName}, API key configure nahi hai, admin se bolo 😅`;
   }
 
   const isOwnerUser = isOwner(senderID);
